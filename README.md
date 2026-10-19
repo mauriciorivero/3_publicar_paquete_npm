@@ -1,8 +1,8 @@
-#SENA-DATE
+# SENA-DATE
 
 Una utilidad para manejar fechas en formato tiemstamp y long time
 
-#Install
+# Install
 
 ```bash
 npm sena-date
